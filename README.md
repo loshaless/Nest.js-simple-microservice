@@ -134,3 +134,5 @@ handleUserCreated(data: CreateUserEvent){
   console.log('handleUserCreated - COMMUNICATIONS', data)
 }
 ```
+
+6. see the console ay sample-analytic and sample-communication and see the magic happen 
